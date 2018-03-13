@@ -1,4 +1,20 @@
-# Wrapping [reSolve](https://github.com/reimagined/resolve) project to [Electron](https://electronjs.org/) desktop application
+## Fast start
+
+Install [Electron Forge](https://electronforge.io/) globally  
+
+```bash
+npm install -g electron-forge
+```
+
+when clone this repo and run
+
+```bash
+npm install
+npm run dev
+electron-forge start
+```
+
+## Wrapping [reSolve](https://github.com/reimagined/resolve) project to [Electron](https://electronjs.org/) desktop application
 
 [Electron](https://electronjs.org/) is a framework for creating native applications with web technologies like JavaScript, HTML, and CSS.
 In this small tutorial we create [reSolve](https://github.com/reimagined/resolve) application and run it within [Electron](https://electronjs.org/) framework.
