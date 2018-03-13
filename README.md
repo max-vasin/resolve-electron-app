@@ -94,7 +94,7 @@ npm run dev
 ``` 
 This command should run local backend server and open browser page pointed to *http://localhost:3000*
 
-[[https://github.com/max-vasin/resolve-electron-app/blob/master/screenshots/s_01.png]]
+![Screenshot 01](https://github.com/max-vasin/resolve-electron-app/blob/master/screenshots/s_01.png)
 
 Build and run [Electron](https://electronjs.org/) application
 
@@ -102,11 +102,12 @@ Build and run [Electron](https://electronjs.org/) application
 electron-forge start
 ```
 
-[[https://github.com/max-vasin/resolve-electron-app/blob/master/screenshots/s_02.png]]
+![Screenshot 02](https://github.com/max-vasin/resolve-electron-app/blob/master/screenshots/s_02.png)
 
 Try to add ToDo lists and items with both browser and desktop application to test reactivity provided by [reSolve](https://github.com/reimagined/resolve) app.
 
-[[https://github.com/max-vasin/resolve-electron-app/blob/master/screenshots/s_03.png]] 
+![Screenshot 03](https://github.com/max-vasin/resolve-electron-app/blob/master/screenshots/s_03.png)
 
-[[https://github.com/max-vasin/resolve-electron-app/blob/master/screenshots/s_04.png]]
+![Screenshot 04](https://github.com/max-vasin/resolve-electron-app/blob/master/screenshots/s_04.png)
+
 
